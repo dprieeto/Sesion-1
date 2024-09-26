@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("3-Creacion de la rama 3");
 		System.out.println("4-Ramas fusionadas");
 		System.out.println("6-Creacion rama 6");
+		System.out.println("7-Creacion Rama7");
 		
 	}
 
