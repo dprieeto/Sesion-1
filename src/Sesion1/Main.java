@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("4-Ramas fusionadas");
 		System.out.println("6-Creacion rama 6");
 		System.out.println("7-Creacion Rama7");
-		
+		System.out.println("9-Merge con master");
 	}
 
 }
