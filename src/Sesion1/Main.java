@@ -13,6 +13,7 @@ public class Main {
 		System.out.println("4-Ramas fusionadas");
 		System.out.println("5-Creacion Rama5");
 		System.out.println("8-Creacion Rama8");
+		System.out.println("10-Deprecated Rama8");
 	}
 
 }
